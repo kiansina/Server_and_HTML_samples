@@ -1,0 +1,24 @@
+/* I wish this were the default */
+body {
+  font-family: arial, sans-serif;
+}
+#first {
+  font-family: monospace;
+}
+#second {
+  color: green;
+}
+.morespace {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.shout {
+  text-transform: uppercase;
+}
+.loud {
+  color: red;
+}
+/* Paragraph tags within a tag with id */
+#third p {
+  background-color: yellow;
+}
