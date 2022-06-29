@@ -96,6 +96,10 @@ def createServer():
             Go back to the
             <a href="index.htm">Starting page</a>.
             </p>
+            <pre><code>if    i                     range</code></pre>
+            <pre>if    i                     range</pre>
+            <p>if    i                     range</p>
+            <p><code>if    i                     range</code></p>
             </body>
 
             '''
